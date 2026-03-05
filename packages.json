@@ -1,0 +1,22 @@
+[
+    {
+        "package": "VoltRon",
+        "url": "https://github.com/BIMSBbioinfo/VoltRon"
+    },
+    {   
+        "package": "VoltRonStore",
+        "url": "https://github.com/BIMSBbioinfo/VoltRonStore"
+    },  
+    {   
+        "package": "ImageArray",
+        "url": "https://github.com/BIMSBbioinfo/ImageArray"
+    },  
+    {   
+        "package": "HDF5DataFrame",
+        "url": "https://github.com/BIMSBbioinfo/HDF5DataFrame"
+    },  
+    {   
+        "package": "ZarrDataFrame",
+        "url": "https://github.com/BIMSBbioinfo/ZarrDataFrame"
+    }
+]
