@@ -14,5 +14,9 @@
     {   
         "package": "ZarrDataFrame",
         "url": "https://github.com/BIMSBbioinfo/ZarrDataFrame"
+    },
+    {   
+        "package": "RCDT",
+        "url": "https://github.com/BIMSBbioinfo/RCDT"
     }
 ]
