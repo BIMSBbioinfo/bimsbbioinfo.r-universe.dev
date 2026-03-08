@@ -8,10 +8,6 @@
         "url": "https://github.com/BIMSBbioinfo/VoltRonStore"
     },  
     {   
-        "package": "ImageArray",
-        "url": "https://github.com/BIMSBbioinfo/ImageArray"
-    },  
-    {   
         "package": "HDF5DataFrame",
         "url": "https://github.com/BIMSBbioinfo/HDF5DataFrame"
     },  
