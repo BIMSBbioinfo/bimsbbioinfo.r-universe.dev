@@ -18,5 +18,9 @@
     {   
         "package": "RCDT",
         "url": "https://github.com/BIMSBbioinfo/RCDT"
-    }
+    },
+    {   
+        "package": "BPCells",
+        "url": "https://github.com/BIMSBbioinfo/BPCells"
+    },  
 ]
