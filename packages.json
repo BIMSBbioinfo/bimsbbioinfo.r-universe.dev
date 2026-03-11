@@ -21,6 +21,7 @@
     },
     {   
         "package": "BPCells",
-        "url": "https://github.com/BIMSBbioinfo/BPCells/r"
+        "url": "https://github.com/BIMSBbioinfo/BPCells",
+        "subdir": "r"
     }
 ]
