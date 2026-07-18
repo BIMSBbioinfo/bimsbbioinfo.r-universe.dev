@@ -23,5 +23,9 @@
         "package": "BPCells",
         "url": "https://github.com/BIMSBbioinfo/BPCells",
         "subdir": "r"
-    }
+    },
+    {   
+        "package": "rbcpd",
+        "url": "https://github.com/BIMSBbioinfo/rbcpd"
+    },
 ]
